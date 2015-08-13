@@ -1,0 +1,9 @@
+500 bus
+30% one way
+50'000 streets
+40% houses
+random
+depot far
+firm random
+5'000 places
+16 thread

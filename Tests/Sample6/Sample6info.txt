@@ -1,0 +1,9 @@
+500 bus
+5% one way
+50'000 streets
+25% houses
+gaussian spread
+depot random
+firm middle
+10'000 places
+8 thread

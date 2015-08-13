@@ -1,0 +1,130 @@
+Cost of best solution = 43'090,003
+Route 0 (Car):
+ 800 952 915 953 739 756 966 384 248 884 235 677 450 0
+  T   T   T   T   F   F   T   F   F   F   F   F   F  F
+Route 1 (Car):
+ 984 943 803 675 879 705 437 1 951 350 808 360 140 845 771 112 370 552 0
+  T   T   T   F   F   F   F  F  F   F   T   F   F   T   F   F   F   F  F
+Route 2 (Car):
+ 804 903 809 823 906 312 704 336 825 587 580 227 229 876 367 362 450 0
+  T   T   T   T   T   F   F   F   F   F   F   F   F   F   F   F   F  F
+Route 3 (Car):
+ 805 896 390 336 825 970 580 818 227 229 876 367 362 450 0
+  T   T   F   F   T   T   F   T   F   F   F   F   F   F  F
+Route 4 (Car):
+ 847 807 899 867 828 326 314 478 300 667 682 552 0
+  T   T   T   T   T   F   F   F   F   F   F   F  F
+Route 5 (Car):
+ 965 325 95 854 211 385 476 0
+  T   F   F  T   F   F   F  F
+Route 6 (Car):
+ 954 425 367 362 450 0
+  T   F   F   F   F  F
+Route 7 (Car):
+ 987 829 813 262 982 838 591 840 961 1 951 350 360 140 771 112 370 552 0
+  T   T   T   F   T   T   F   F   F  F  F   F   F   F   F   F   F   F  F
+Route 8 (Car):
+ 816 276 878 336 825 748 925 171 916 756 966 384 248 884 235 677 450 0
+  T   F   T   F   F   F   T   F   T   F   F   F   F   T   F   F   F  F
+Route 9 (Car):
+ 945 890 817 852 880 191 749 561 209 769 877 622 664 665 250 233 345 650 861 450 0
+  T   T   T   T   T   F   F   F   F   F   F   F   F   F   F   F   F   F   F   F  F
+Route 10 (Car):
+ 830 941 819 826 271 993 353 234 656 311 922 359 392 394 507 370 552 0
+  T   T   T   T   F   T   F   F   F   F   F   F   F   F   F   F   F  F
+Route 11 (Car):
+ 901 821 969 91 979 67 909 992 243 360 140 771 112 370 552 0
+  T   T   F   F  T   F  T   T   F   F   F   F   F   F   F  F
+Route 12 (Car):
+ 935 917 792 864 936 312 704 336 825 587 580 227 229 876 367 362 450 0
+  T   T   F   T   T   F   F   F   F   F   F   F   F   T   F   F   F  F
+Route 13 (Car):
+ 931 449 617 752 872 831 152 576 622 664 665 820 15 345 650 960 450 0
+  T   F   F   F   T   T   F   F   F   F   F   T   F  F   F   T   F  F
+Route 14 (Car):
+ 944 9 697 856 810 950 289 57 501 603 478 300 883 667 682 552 0
+  T  F  F   T   T   T   F   F  F   F   F   F   T   F   F   F  F
+Route 15 (Car):
+ 882 836 868 949 338 958 626 802 619 985 707 570 690 359 392 394 507 370 552 0
+  T   T   T   T   F   F   F   T   F   F   F   F   F   F   F   F   F   F   F  F
+Route 16 (Car):
+ 889 840 961 1 951 350 948 559 724 788 771 112 370 552 0
+  T   T   T  F  T   F   T   F   F   F   F   F   F   F  F
+Route 17 (Car):
+ 994 911 551 663 453 89 244 921 309 929 811 425 367 362 450 0
+  T   T   F   F   F   F  F   T   F   T   T   F   F   F   F  F
+Route 18 (Car):
+ 989 908 477 888 843 778 857 4 649 108 278 131 965 325 534 482 579 385 476 0
+  T   T   F   T   T   F   T  F  F   F   F   F   F   F   F   F   F   F   F  F
+Route 19 (Car):
+ 986 230 844 230 912 515 119 964 237 14 858 282 694 324 476 0
+  T   F   T   F   T   F   F   T   F   F  T   F   F   F   F  F
+Route 20 (Car):
+ 848 895 598 900 267 837 905 580 227 229 876 367 362 450 0
+  T   T   F   T   F   T   T   F   F   F   F   F   F   F  F
+Route 21 (Car):
+ 832 689 773 851 833 649 758 885 859 285 75 325 534 482 579 385 476 0
+  T   F   F   T   T   F   F   T   T   F   F  F   F   F   F   F   F  F
+Route 22 (Car):
+ 853 999 192 907 725 910 22 217 839 762 567 224 625 447 698 637 179 884 235 677 450 0
+  T   T   F   T   F   T   F  F   T   F   F   F   F   F   F   F   F   F   F   F   F  F
+Route 23 (Car):
+ 913 860 218 891 927 719 275 206 881 658 400 236 394 507 370 552 0
+  T   T   F   T   T   F   F   F   T   F   F   F   F   F   F   F  F
+Route 24 (Car):
+ 924 144 869 947 516 416 327 898 211 385 476 0
+  T   F   T   T   F   F   F   T   F   F   F  F
+Route 25 (Car):
+ 873 972 919 432 988 18 454 967 393 516 416 327 898 211 385 476 0
+  T   T   T   F   T   F  F   T   F   F   F   F   F   F   F   F  F
+Route 26 (Car):
+ 887 940 696 996 961 1 951 350 360 140 771 112 370 552 0
+  T   T   F   T   F  F  F   F   F   F   F   F   F   F  F
+Route 27 (Car):
+ 933 894 162 379 997 926 255 12 978 351 576 622 664 665 250 233 345 650 861 450 0
+  T   T   F   F   T   T   F   F  T   F   F   F   F   F   F   F   F   F   F   F  F
+Route 28 (Car):
+ 930 288 866 827 209 769 877 622 664 665 250 870 709 650 861 450 0
+  T   F   T   T   F   F   T   F   F   F   F   T   F   F   F   F  F
+Route 29 (Car):
+ 846 834 654 367 362 450 0
+  T   T   F   F   F   F  F
+Route 30 (Car):
+ 980 955 287 897 34 592 694 324 476 0
+  T   T   F   T   F  F   F   F   F  F
+Route 31 (Car):
+ 971 956 968 806 751 220 835 411 495 761 57 501 603 478 300 667 682 552 0
+  T   T   T   T   F   F   T   F   F   F   F  F   F   F   F   F   F   F  F
+Route 32 (Car):
+ 862 886 189 850 957 88 542 799 814 219 38 198 427 739 756 966 384 248 884 235 677 450 0
+  T   T   F   T   T   F  F   F   T   F   F  F   F   F   F   F   F   F   F   F   F   F  F
+Route 33 (Car):
+ 959 995 973 320 747 920 389 215 842 431 911 551 663 453 89 244 247 367 362 450 0
+  T   T   T   F   F   T   F   F   T   F   F   F   F   F   F  F   F   F   F   F  F
+Route 34 (Car):
+ 977 937 69 310 103 942 96 874 918 780 244 247 367 362 450 0
+  T   T   F  F   F   T   F  T   T   F   F   F   F   F   F  F
+Route 35 (Car):
+ 904 985 981 743 875 932 690 359 392 394 507 370 552 0
+  T   T   T   F   T   T   F   F   F   F   F   F   F  F
+Route 36 (Car):
+ 975 849 863 205 746 358 969 91 768 67 909 243 360 140 962 771 112 370 552 0
+  T   T   T   F   F   F   T   F  F   F  F   F   F   F   T   F   F   F   F  F
+Route 37 (Car):
+ 893 706 822 722 294 812 129 879 705 437 1 951 350 554 801 283 771 112 370 552 0
+  T   F   T   F   F   T   F   T   F   F  F  F   F   F   T   F   F   F   F   F  F
+Route 38 (Car):
+ 914 273 488 841 361 815 338 991 548 313 234 656 311 922 359 392 394 507 370 552 0
+  T   F   F   T   F   T   F   T   F   F   F   F   F   T   F   F   F   F   F   F  F
+Route 39 (Car):
+ 934 466 892 902 380 974 757 252 396 681 923 779 228 771 112 370 552 0
+  T   F   T   T   F   T   F   F   F   F   T   F   F   F   F   F   F  F
+Route 40 (Car):
+ 983 231 976 693 865 484 151 222 824 436 427 739 871 756 966 384 248 884 235 677 450 0
+  T   F   T   F   T   F   F   F   T   F   F   F   T   F   F   F   F   F   F   F   F  F
+Route 41 (Car):
+ 946 963 928 204 698 637 527 938 585 433 213 650 861 450 0
+  T   T   T   F   F   F   F   T   F   F   F   F   T   F  F
+Route 42 (Car):
+ 958 939 455 855 94 408 573 206 998 400 236 394 507 372 990 0
+  T   T   F   T   F  F   F   F   T   F   F   F   F   F   T  F
