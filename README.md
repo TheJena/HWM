@@ -13,7 +13,7 @@ The project is composed of HWM_solver and HWM_test_generator, which are
 two applications written in Java (.jar archive downloadable in 
 [Packages](https://github.com/TheJena/HWM/tree/master/Packages) )
 
-In (Presentation)[https://github.com/TheJena/HWM/tree/master/Presentation] you 
+In [Presentation](https://github.com/TheJena/HWM/tree/master/Presentation) you 
 can find several infos about the project.
 
 
@@ -28,7 +28,7 @@ inputs:
 ```
 java -jar HMW_test_generator.jar
 ```
-Or if you alredy have a inputfile.dat (some examples are available 
+Or if you alredy have an inputfile.dat (some examples are available 
 [here](https://github.com/TheJena/HWM/tree/master/Tests)) launch:
 ```
 java -jar HWM_solver.jar
