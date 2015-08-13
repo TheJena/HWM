@@ -51,7 +51,7 @@ History
 =======
 
 Available here 
-[HISTORY.md](https://github.com/TheJena/HWM/blob/master/HISTORY.md)
+[HISTORY](https://github.com/TheJena/HWM/blob/master/HISTORY.md)
 
 
 
